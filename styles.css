@@ -1,0 +1,68 @@
+* {
+    background-color: #F5EDE0;
+    color: #1A231C;
+}
+
+.desc {
+    text-align: center;
+}
+
+div.container {
+    text-align: center;
+}
+
+li#desc{
+    font-size: 18px;
+}
+
+li#name{
+    font-size: 24px;
+
+}
+
+ul.index {
+    display: inline-block;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+    color: #AC7646;
+    text-decoration: none;
+}
+
+h1,
+h2 {
+    color: #689288;
+    text-align: center;
+}
+
+dt {
+    font-size: 24px;
+    color: #AC7646;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 10px;
+
+
+}
+
+/*
+meatball image adjustments
+
+img.mimg {
+    filter: saturate(60%);
+} 
+
+*/
