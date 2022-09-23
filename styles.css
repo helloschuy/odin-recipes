@@ -3,19 +3,34 @@
     color: #1A231C;
 }
 
+h1,
+h2 {
+    color: #689288;
+    text-align: center;
+}
+
 .desc {
     text-align: center;
 }
 
-div.container {
+div.recipe-list {
     text-align: center;
 }
 
-li#desc{
+#title-links {
+    text-align: center;
+    color: #1A231C;
+}
+
+div#current {
+    text-decoration: underline #689288;
+}
+
+li#rdesc{
     font-size: 18px;
 }
 
-li#name{
+li#rname{
     font-size: 24px;
 
 }
@@ -33,12 +48,6 @@ ul {
 a {
     color: #AC7646;
     text-decoration: none;
-}
-
-h1,
-h2 {
-    color: #689288;
-    text-align: center;
 }
 
 dt {
